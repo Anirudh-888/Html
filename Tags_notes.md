@@ -14,3 +14,6 @@ Anchor tab: This is the tag that allows to add external links or the redirecting
 <br>
 Syntax for the anchor tabs 
 ![alt text](code.png)
+<br>
+div: this is known as division and then this by itself has no meaning like a cardboard box and then same like cardboard box its defined by what it has in it.
+<br>
