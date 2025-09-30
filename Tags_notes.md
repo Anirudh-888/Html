@@ -24,4 +24,8 @@ Syntax of the span
 ![alt text](code-1.png)
 using this span we can change the style of the single word (usign css)
 as shown in the image
-![alt text](image.png)  
+![alt text](image.png) 
+<br>
+Ordered list
+<br>
+This tag is used to arrange the things in the order
