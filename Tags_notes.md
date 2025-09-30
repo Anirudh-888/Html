@@ -17,4 +17,11 @@ Syntax for the anchor tabs
 <br>
 div: this is known as division and then this by itself has no meaning like a cardboard box and then same like cardboard box its defined by what it has in it.
 <br>
-'<span>' This is the tag that is like a ziplock. The span is same as div but 
+'<span>' This is the tag that is like a ziplock. The span is same as div but smaller one
+<br>
+Syntax of the span
+<br>
+![alt text](code-1.png)
+using this span we can change the style of the single word (usign css)
+as shown in the image
+![alt text](image.png)  
