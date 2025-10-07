@@ -1,0 +1,15 @@
+h1{color : rgb(255, 100, 85);
+    font-weight: normal;
+    font-size : 50px;
+    text-decoration:underline;
+    text-transform: capitalize;
+    border: dashed black;
+    border-radius: 50px;
+ }
+ h2{
+    color : rgb(22, 197, 216);
+    font-size : 20px;
+    text-decoration:dotted;
+    border:dashed black;
+    border-radius:50px;
+ }
